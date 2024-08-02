@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Selection from Scene Studies (ADS0093)
 manifest_name: selection-from-scene-studies-ads0093-
 permalink: selection-from-scene-studies-ads0093-
