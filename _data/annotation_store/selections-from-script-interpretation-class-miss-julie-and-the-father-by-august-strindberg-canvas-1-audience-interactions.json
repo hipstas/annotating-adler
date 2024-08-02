@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hipstas.github.io/annotating-adler/annotations/selections-from-script-interpretation-class-miss-julie-and-the-father-by-august-strindberg-canvas-1-audience-interactions.json",
+  "type": "AnnotationPage",
+  "label": "audience interactions",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selections-from-script-interpretation-class-miss-julie-and-the-father-by-august-strindberg-canvas-1-audience-interactions-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Looks up at the audience after she says something funny",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The Method",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selections-from-script-interpretation-class-miss-julie-and-the-father-by-august-strindberg/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selections-from-script-interpretation-class-miss-julie-and-the-father-by-august-strindberg/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8460.0,8520.0"
+        }
+      }
+    }
+  ]
+}
