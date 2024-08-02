@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Selections from Scene Studies
 manifest_name: selections-from-scene-studies
 permalink: selections-from-scene-studies
