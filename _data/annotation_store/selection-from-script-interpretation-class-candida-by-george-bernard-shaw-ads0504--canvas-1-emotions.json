@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hipstas.github.io/annotating-adler/annotations/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions.json",
+  "type": "AnnotationPage",
+  "label": "Emotions",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler becomes forceful to emphasize an important point",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Forceful",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "125.0,130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler ruminates on the opportunism of middle class man",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contemplative",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "154.0,161.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler begins this video in a neutral and informative tone, but soon becomes more dynamic. She does not reach the emotional highs and lows she does in some of the other videos in this collection, but her tone is highly attuned to her subject matter, and in particular what she sees as both Shaw's view of the character she is discussing and the character's view of himself.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Neutral and informative",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.0,21.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler switches to Shaw's perspective, becoming conspiratorial as she relays Shaw's distaste for aspects of the character being discussed. After expressing Shaw's feelings, she mirrors his slightly contemptuous tolerance and understanding of the character",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Conspiratorial",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,39.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler displays a somewhat condescending but still humane understanding ofthe character, smiling slightly at his pretensions",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amused",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "39.0,50.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler acts out the inner turmoil of the character being discussed, transitioning to a lighter, more elevated tone as she discusses his aspirations",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Distraught, mocking",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.0,93.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-emotions-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler adopts an impersonal stance, analyzing Shaw's intentions and methods, rather than acting out either his or the character's emotions or opinions.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Neutral and informative",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "105.0,108.0"
+        }
+      }
+    }
+  ]
+}

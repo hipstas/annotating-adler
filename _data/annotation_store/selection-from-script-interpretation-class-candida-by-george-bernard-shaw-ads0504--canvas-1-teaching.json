@@ -1,0 +1,117 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hipstas.github.io/annotating-adler/annotations/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-teaching.json",
+  "type": "AnnotationPage",
+  "label": "Teaching",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-teaching-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler gives her interpretation of the character of Morell in George Bernard Shaw's Candida, sourcing his motivation not to religious enlightenment but to wanting to be a star who has \"found his gimmick.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script analysis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "11.0,48.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-teaching-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler advises students to add in physical characteristics of character themselves if the play does not tell them. She authoritiatively tells them to write down the physical characteristics of each character and that Shaw teaches them that. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Characterization, George Bernard Shaw",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-teaching-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adler asks students if she's being clear",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "132.0"
+        }
+      }
+    }
+  ]
+}

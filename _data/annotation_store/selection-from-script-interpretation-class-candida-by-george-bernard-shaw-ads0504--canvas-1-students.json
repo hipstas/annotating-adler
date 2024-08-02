@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hipstas.github.io/annotating-adler/annotations/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-students.json",
+  "type": "AnnotationPage",
+  "label": "Students",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504--canvas-1-students-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Adler addresses her students to ask them if she has been clear in telling them to write down the physicality of their characters. They respond \"yes\" in unison.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Question to group",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-candida-by-george-bernard-shaw-ads0504-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "133.0,134.0"
+        }
+      }
+    }
+  ]
+}
