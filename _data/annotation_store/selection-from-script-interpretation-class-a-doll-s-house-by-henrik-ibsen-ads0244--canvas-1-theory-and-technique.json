@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hipstas.github.io/annotating-adler/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique.json",
+  "type": "AnnotationPage",
+  "label": "Theory and Technique",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Reading from script] \"It's really me\" now, something happens to ME', perspective shift",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis, The Method",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2820.0,3119.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Employs first person perspective of character to ask questions, the method and becoming the character instead of affective memory",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis, The Method",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4620.0,5520.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"And I have a lot of words but I have more than that\", and begins analysis of Nora's character, delves into familial background and lack of it and can infer the class implications of being an orphan",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis, Class",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7860.0,10080.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"I'm beginning to break through that I have to get to the background\", can see the method at work here and Adler's emphasis on research",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The Method",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10620.0,11099.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Look at how environment and differences impact a character, leads back to things like class and relationships, also reaches out to class to check in that they are understanding",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The Method, Class",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "11160.0,12479.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Historical research/context applied to characterization",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The Method",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25200.0,26820.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The \"truth\" used here, applied to script",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The \"Truth\"",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29100.0,29760.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Looking out and addressing the classroom very directly and very still, revelatory statement about Nora",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30720.0,31200.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-theory-and-technique-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Teacher voice again, very calm after drama, reveals that she calls it a \"recognition scene\", seems to have worked through/figured out the scene as she's teaching it",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33000.0,33180.0"
+        }
+      }
+    }
+  ]
+}

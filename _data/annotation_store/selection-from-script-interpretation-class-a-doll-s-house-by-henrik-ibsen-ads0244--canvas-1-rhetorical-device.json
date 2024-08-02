@@ -1,0 +1,125 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hipstas.github.io/annotating-adler/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-rhetorical-device.json",
+  "type": "AnnotationPage",
+  "label": "Rhetorical Device",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-rhetorical-device-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Lots of pauses and she's working through the character, very emotional and she begins to look up and point left away from the audience more, we get to see her active process",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Acting Voice, Dramatic Pause",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "17040.0,18720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-rhetorical-device-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"I'm getting somewhere\" breakthrough and then reflects and reels it in, difference between her as a teacher and as an actor, subsequently see her switch between these two states",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The Method, Teaching Voice, Acting Voice",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18780.0,19140.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244--canvas-1-rhetorical-device-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Hand motions as she's reading the lines, when she shifts to teaching she reaches her hands out more and they become more still and clasped in front of her. Really notable shifts here in body language between active teaching and working through character",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Teaching Voice, Acting Voice",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/annotating-adler/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-ads0244-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22080.0,24420.0"
+        }
+      }
+    }
+  ]
+}
